@@ -1,1 +1,1 @@
-# posters
+# Conference Posters
